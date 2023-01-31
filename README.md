@@ -1,4 +1,4 @@
-![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://cutewallpaper.org/21/pixel-art-gif-background/Futuristic-Landscapes-Get-a-Retro-Look-Thanks-to-Pixel-Art-.gif)
+![My Remote Image](https://cutewallpaper.org/21/pixel-art-gif-background/Futuristic-Landscapes-Get-a-Retro-Look-Thanks-to-Pixel-Art-.gif)
 <h1 align="center">Hi 👋, I'm Bram van Dijke</h1>
 <h3 align="center">A front-end developer from the Netherlands</h3>
 
