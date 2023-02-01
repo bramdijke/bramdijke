@@ -1,4 +1,4 @@
-![My Remote Image](https://cutewallpaper.org/21/pixel-art-gif-background/Futuristic-Landscapes-Get-a-Retro-Look-Thanks-to-Pixel-Art-.gif)
+<img src="https://cdn.discordapp.com/attachments/788547996530376709/1070330708263964802/BRAM_VAN_DIJKE.png" alt="banner image" width="100%"/>
 <h1 align="center">Hi 👋, I'm Bram van Dijke</h1>
 <h3 align="center">A front-end developer from the Netherlands</h3>
 
