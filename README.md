@@ -2,11 +2,11 @@
 <h1>Hi, I'm Bram van Dijke</h1>
 <h3>A front-end developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on **Project 3 - Webshop**
+- 🎓I'm currently a student at **Techniek College Rotterdam (Software Developer & Creative Media)**
 
-- 🌱 I’m currently learning **Frameworks, Bootstrap**
+- 📙 I’m currently learning **Frameworks, Bootstrap, JavaScript**
 
-- ⚡ Fun fact **Goofy ah**
+- 💻 I’m currently working on **Project 3 - Webshop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
