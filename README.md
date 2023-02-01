@@ -1,6 +1,6 @@
-<img src="https://cdn.discordapp.com/attachments/788547996530376709/1070330708263964802/BRAM_VAN_DIJKE.png" alt="banner image" width="100%"/>
-<h1 align="center">Hi 👋, I'm Bram van Dijke</h1>
-<h3 align="center">A front-end developer from the Netherlands</h3>
+<img src="https://cdn.discordapp.com/attachments/788547996530376709/1070348174750928978/My_project-1.png" alt="banner image" width="100%"/>
+<h1>Hi, I'm Bram van Dijke</h1>
+<h3>A front-end developer from the Netherlands</h3>
 
 - 🔭 I’m currently working on **Project 3 - Webshop**
 
