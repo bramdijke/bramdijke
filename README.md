@@ -2,15 +2,15 @@
 <h1>Hi, I'm Bram van Dijke</h1>
 <h3>A front-end developer from the Netherlands</h3>
 
-- 🎓I'm currently a student at **Techniek College Rotterdam (Software Developer & Creative Media)**
+- 🎓I'm currently a student at **Techniek College Rotterdam (Software Developer & Creative Media Technology)**
 
-- 📙 I’m currently learning **Frameworks, Bootstrap, JavaScript**
+- 📙 I’m currently learning **Frameworks, Bootstrap, JavaScript, HTML & CSS**
 
 - 💻 I’m currently working on **Project 3 - Webshop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bram van dijke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bram van dijke" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bram-van-dijke-248aa9210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bram van dijke" height="30" width="40" /></a>
 <a href="https://dribbble.com/bramvandijke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bramvandijke" height="30" width="40" /></a>
 </p>
 
