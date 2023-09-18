@@ -4,9 +4,9 @@
 
 - 🎓I'm currently a student at **Techniek College Rotterdam (Software Developer & Creative Media Technology)**
 
-- 📙 I’m currently learning **Frameworks, Bootstrap, JavaScript, HTML & CSS, JSON**
+- 📙 I’m currently learning **Frameworks, Bootstrap, JavaScript, HTML & CSS, JSON, React**
 
-- 💻 I’m currently working on **Project 3 - Webshop**
+- 💻 I’m currently working on **React exercise**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
