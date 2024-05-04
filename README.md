@@ -1,4 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/788547996530376709/1070348174750928978/My_project-1.png" alt="banner image" width="100%"/>
 <h1>Hi, I'm Bram van Dijke</h1>
 <h3>A front-end developer from the Netherlands</h3>
 
