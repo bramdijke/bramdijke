@@ -1,7 +1,7 @@
 <h1>Hi, I'm Bram van Dijke</h1>
 <h3>A front-end developer from the Netherlands</h3>
 
-- 🎓I'm currently a student at **Techniek College Rotterdam (Software Developer & Creative Media Technology)**
+- 🎓I'm currently teaching at **Techniek College Rotterdam (Software Developer & Creative Media Technology)**
 
 - 📙 I’m currently learning **React and C++**
 
