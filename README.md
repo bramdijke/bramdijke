@@ -1,11 +1,9 @@
 <h1>Hi, I'm Bram van Dijke</h1>
 <h3>A front-end developer from the Netherlands</h3>
 
-- 🎓I'm currently teaching at **Techniek College Rotterdam (Software Developer & Creative Media Technology)**
+- 🎓I'm currently studying at **Hogeschool Rotterdam (CMGT)**
 
 - 📙 I’m currently learning **React and C++**
-
-- 💻 I’m currently working on **BUAS INTAKE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
