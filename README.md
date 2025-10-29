@@ -3,7 +3,7 @@
 
 - 🎓I'm currently studying at **Hogeschool Rotterdam (CMGT)**
 
-- 📙 I’m currently learning **React and C++**
+- 📙 I’m currently learning **React, Vue and C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
